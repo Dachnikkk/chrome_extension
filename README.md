@@ -15,7 +15,7 @@ In this work, an implementation of an extension will be presented that will allo
 Clone the project
 
 ```bash
-  git clone https://github.com/Dachnikkk/chrome-extension.git
+  git clone https://github.com/Dachnikkk/chrome_extension.git
 ```
 
 Go to the REST API directory
