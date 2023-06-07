@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# chrome_extension
-=======
 # chrome-extension
 nest-react-extension
 
@@ -83,4 +80,3 @@ Start the server
 ## Feedback
 
 If you have any feedback, please reach out to me.
->>>>>>> master
